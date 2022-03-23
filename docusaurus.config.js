@@ -15,6 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jihoi-kang', // Usually your GitHub org/user name.
   projectName: 'jihoi-kang.github.io', // Usually your repo name.
+  i18n: {
+    defaultLocale: "ko",
+    locales: ["ko"],
+  },
 
   presets: [
     [
@@ -55,9 +59,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/archive', label: 'Archive', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jihoi-kang',
             label: 'GitHub',
             position: 'right',
           },
