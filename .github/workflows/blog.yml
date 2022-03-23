@@ -8,6 +8,9 @@ jobs:
   gh-release:
     runs-on: ubuntu-latest
     steps:
+      - name: Release to Github Pages
+        run: |
+        echo "SSH_PRIVATE_KEY=${{ secrets.SSH_PRIVATE_KEY }}" >> .env
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v1
         with:
