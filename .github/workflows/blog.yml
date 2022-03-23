@@ -13,6 +13,8 @@ jobs:
         with:
           node-version: '12.x'
       - uses: webfactory/ssh-agent@v0.5.0
+          run: |
+            echo "REACT_APP_DOMAIN=$SSH_PRIVATE_KEY" >> .env
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Release to Github Pages
