@@ -14,9 +14,7 @@ jobs:
           node-version: '12.x'
       - uses: webfactory/ssh-agent@v0.5.0
         with:
-          host: github.com,
-          username: git,
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Release to Github Pages
         env:
           USE_SSH: true
