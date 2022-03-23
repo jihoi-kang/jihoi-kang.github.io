@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "blog title",
+    "message": "보관소",
     "description": "The title for the blog used in SEO"
   },
   "description": {
-    "message": "blog description",
+    "message": "모든 게시물",
     "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
-    "message": "Recent posts",
+    "message": "최근 게시물",
     "description": "The label for the left sidebar"
   }
 }

@@ -13,8 +13,12 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'jihoi-kang', // Usually your GitHub org/user name.
+  organizationName: 'org/jihoi-kang', // Usually your GitHub org/user name.
   projectName: 'jihoi-kang.github.io', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'ko',
+    locales: ['ko'],
+  },
 
   presets: [
     [
@@ -48,7 +52,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/archive', label: 'Archive', position: 'left' },
           {
             href: 'https://github.com/jihoi-kang',
             label: 'GitHub',
