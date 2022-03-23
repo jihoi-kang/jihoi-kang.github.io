@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'org/jihoi-kang', // Usually your GitHub org/user name.
+  organizationName: 'git', // Usually your GitHub org/user name.
   projectName: 'jihoi-kang.github.io', // Usually your repo name.
   i18n: {
     defaultLocale: 'ko',
