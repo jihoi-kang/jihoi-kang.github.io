@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jihoi-kang', // Usually your GitHub org/user name.
   projectName: 'jihoi-kang.github.io', // Usually your repo name.
+  trailingSlash: true,
   i18n: {
     defaultLocale: "ko",
     locales: ["ko"],
@@ -22,19 +23,18 @@ const config = {
 
   presets: [
     [
-      'classic',
+      "@docusaurus/preset-classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false,
         blog: {
+          blogTitle: "blog title",
+          blogDescription: "blog description",
+          routeBasePath: "/",
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/jihoi-kang/jihoi-kang.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,13 +53,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/archive', label: 'Archive', position: 'left'},
+          { to: '/archive', label: 'Archive', position: 'left' },
           {
             href: 'https://github.com/jihoi-kang',
             label: 'GitHub',
@@ -69,48 +63,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Jihoi Kang. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
