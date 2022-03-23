@@ -1,1 +1,0 @@
-# jihoi-kang.github.io
