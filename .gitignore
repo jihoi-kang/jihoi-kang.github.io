@@ -1,0 +1,10 @@
+/node_modules
+/build
+.docusaurus
+.cache-loader
+
+# Misc
+.DS_Store
+
+# IDE
+.idea
