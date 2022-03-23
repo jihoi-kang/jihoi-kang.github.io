@@ -13,8 +13,6 @@ jobs:
         with:
           node-version: '12.x'
       - uses: webfactory/ssh-agent@v0.5.0
-          run: |
-            echo "REACT_APP_DOMAIN=$SSH_PRIVATE_KEY" >> .env
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Release to Github Pages
@@ -24,6 +22,7 @@ jobs:
           DEPLOYMENT_BRANCH: gh-pages
           CURRENT_BRANCH: main
         run: |
+          echo "SSH_PRIVATE_KEY=${{ secrets.SSH_PRIVATE_KEY }}" >> .env
           git config --global user.email "jihoi.kang@gmail.com"
           git config --global user.name "jihoi-kang"
           yarn install --frozen-lockfile
