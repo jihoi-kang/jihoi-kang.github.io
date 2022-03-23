@@ -24,11 +24,5 @@ jobs:
         run: |
           git config --global user.email "jihoi.kang@gmail.com"
           git config --global user.name "jihoi-kang"
-          if [ -e yarn.lock ]; then
-            yarn install --frozen-lockfile
-          elif [ -e package-lock.json ]; then
-            npm ci
-          else
-            npm i
-          fi
-          npm run deploy
+          yarn install --frozen-lockfile
+          yarn deploy
