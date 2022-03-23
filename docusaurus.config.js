@@ -15,10 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jihoi-kang', // Usually your GitHub org/user name.
   projectName: 'jihoi-kang.github.io', // Usually your repo name.
-  i18n: {
-    defaultLocale: "ko",
-    locales: ["ko"],
-  },
 
   presets: [
     [
@@ -28,7 +24,8 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -59,7 +56,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/archive', label: 'Archive', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/jihoi-kang',
             label: 'GitHub',
