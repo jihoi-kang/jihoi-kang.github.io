@@ -22,8 +22,9 @@ jobs:
           DEPLOYMENT_BRANCH: gh-pages
           CURRENT_BRANCH: main
         run: |
+          echo "SOME_TEST=${{ secrets.SOME_TEST }}" >> .env
+          echo "SOME_TEST=$SOME_TEST" >> .env
           echo "SSH_PRIVATE_KEY=${{ secrets.SSH_PRIVATE_KEY }}" >> .env
           git config --global user.email "jihoi.kang@gmail.com"
           git config --global user.name "jihoi-kang"
           yarn install --frozen-lockfile
-          yarn deploy
