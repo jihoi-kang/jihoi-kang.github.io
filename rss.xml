@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of jay.blog]]></title><description><![CDATA[Hello :) I'm a developer.]]></description><link>https://jihoi-kang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Dec 2024 09:54:28 GMT</lastBuildDate><item><title><![CDATA[🤩 4. Other Tips]]></title><description><![CDATA[How to change the favicon? The favicon is located in . If you replace that image, the favicon will change. If you want to change the name of…]]></description><link>https://jihoi-kang.github.io/other-tips/</link><guid isPermaLink="false">https://jihoi-kang.github.io/other-tips/</guid><pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How to change the favicon?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of jay.blog]]></title><description><![CDATA[Hello :) I'm a developer.]]></description><link>https://jihoi-kang.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Dec 2024 09:57:16 GMT</lastBuildDate><item><title><![CDATA[🤩 4. Other Tips]]></title><description><![CDATA[How to change the favicon? The favicon is located in . If you replace that image, the favicon will change. If you want to change the name of…]]></description><link>https://jihoi-kang.github.io/other-tips/</link><guid isPermaLink="false">https://jihoi-kang.github.io/other-tips/</guid><pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;How to change the favicon?&lt;/h2&gt;
 &lt;p&gt;The favicon is located in &lt;code class=&quot;language-text&quot;&gt;static/favicon.png&lt;/code&gt;. If you replace that image, the favicon will change.&lt;/p&gt;
 &lt;p&gt;If you want to change the name of the favicon, change the &lt;code class=&quot;language-text&quot;&gt;icon&lt;/code&gt; property of &lt;code class=&quot;language-text&quot;&gt;gatsby-plugin-manifest&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;gatsby-config.js&lt;/code&gt;.&lt;/p&gt;
 &lt;h2&gt;Utterance is not working properly.&lt;/h2&gt;
@@ -159,23 +159,7 @@ $ git remote add origin https://github.com/{YOUR_GITHUB_NAME}/{YOUR_REPOSITORY_N
     ├── pages // page components are here
     ├── reducers
     ├── templates // post components are here
-    └── utils&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[🎇 1. About gatsby-starter-hoodie]]></title><description><![CDATA[About gatsby-starter-hoodie gatsby-starter-hoodie is a gatsby theme created for writing tech blogs. Markdown, Code Highlighting in various…]]></description><link>https://jihoi-kang.github.io/about-hoodie/</link><guid isPermaLink="false">https://jihoi-kang.github.io/about-hoodie/</guid><pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;About gatsby-starter-hoodie&lt;/h2&gt;
-&lt;p&gt;gatsby-starter-hoodie is a gatsby theme created for writing tech blogs. Markdown, Code Highlighting in various programming languages, and Katex syntax are supported. Also, you can easily categorize articles into tags and series.&lt;/p&gt;
-&lt;p&gt;Start your blog with a neatly designed gatsby-starter-hoodie that supports dark mode.&lt;/p&gt;
-&lt;h2&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Markdown&lt;/li&gt;
-&lt;li&gt;Code Highlighting&lt;/li&gt;
-&lt;li&gt;Katex Syntax&lt;/li&gt;
-&lt;li&gt;Dark Mode (Responsive to the settings of the OS)&lt;/li&gt;
-&lt;li&gt;Tag Categoriazation&lt;/li&gt;
-&lt;li&gt;Series Categorization&lt;/li&gt;
-&lt;li&gt;Responsive Web&lt;/li&gt;
-&lt;li&gt;SEO&lt;/li&gt;
-&lt;li&gt;Utterance (Comment widget)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Let&apos;s get started&lt;/h2&gt;
-&lt;p&gt;Follow the &lt;a href=&quot;/quick-start&quot;&gt;Quick Start&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🤩 4. 그 외 팁들]]></title><description><![CDATA[파비콘은 어떻게 변경하나요?  에 파비콘 파일이 위치해 있습니다. 이미지 파일을 대체하면 파비콘을 변경할 수 있습니다. 만약 파비콘 파일의 이름을 변경하고 싶다면,  파일의  에서  속성을 변경하셔야합니다. Utterance…]]></description><link>https://jihoi-kang.github.io/other-tips-kr/</link><guid isPermaLink="false">https://jihoi-kang.github.io/other-tips-kr/</guid><pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;파비콘은 어떻게 변경하나요?&lt;/h2&gt;
+    └── utils&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[🤩 4. 그 외 팁들]]></title><description><![CDATA[파비콘은 어떻게 변경하나요?  에 파비콘 파일이 위치해 있습니다. 이미지 파일을 대체하면 파비콘을 변경할 수 있습니다. 만약 파비콘 파일의 이름을 변경하고 싶다면,  파일의  에서  속성을 변경하셔야합니다. Utterance…]]></description><link>https://jihoi-kang.github.io/other-tips-kr/</link><guid isPermaLink="false">https://jihoi-kang.github.io/other-tips-kr/</guid><pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;파비콘은 어떻게 변경하나요?&lt;/h2&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;static/favicon.png&lt;/code&gt; 에 파비콘 파일이 위치해 있습니다. 이미지 파일을 대체하면 파비콘을 변경할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;만약 파비콘 파일의 이름을 변경하고 싶다면, &lt;code class=&quot;language-text&quot;&gt;gatsby-config.js&lt;/code&gt; 파일의 &lt;code class=&quot;language-text&quot;&gt;gatsby-plugin-manifest&lt;/code&gt; 에서 &lt;code class=&quot;language-text&quot;&gt;icon&lt;/code&gt; 속성을 변경하셔야합니다.&lt;/p&gt;
 &lt;h2&gt;Utterance 가 제대로 작동하지 않아요.&lt;/h2&gt;
@@ -334,7 +318,23 @@ $ npm run start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     ├── pages // page components are here
     ├── reducers
     ├── templates // post components are here
-    └── utils&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[🎇 1. gatsby-starter-hoodie 에 대하여]]></title><description><![CDATA[gatsby-starter-hoodie 에 대하여 gatsby-starter-hoodie 는 기술 블로그를 작성하기 위해 개발된 Gatsby 테마입니다. 마크다운과 많은 프로그래밍 언어의 코드 하이라이팅, 그리고 Katex…]]></description><link>https://jihoi-kang.github.io/about-hoodie-kr/</link><guid isPermaLink="false">https://jihoi-kang.github.io/about-hoodie-kr/</guid><pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;gatsby-starter-hoodie 에 대하여&lt;/h2&gt;
+    └── utils&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[🎇 1. About gatsby-starter-hoodie]]></title><description><![CDATA[About gatsby-starter-hoodie gatsby-starter-hoodie is a gatsby theme created for writing tech blogs. Markdown, Code Highlighting in various…]]></description><link>https://jihoi-kang.github.io/about-hoodie/</link><guid isPermaLink="false">https://jihoi-kang.github.io/about-hoodie/</guid><pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;About gatsby-starter-hoodie&lt;/h2&gt;
+&lt;p&gt;gatsby-starter-hoodie is a gatsby theme created for writing tech blogs. Markdown, Code Highlighting in various programming languages, and Katex syntax are supported. Also, you can easily categorize articles into tags and series.&lt;/p&gt;
+&lt;p&gt;Start your blog with a neatly designed gatsby-starter-hoodie that supports dark mode.&lt;/p&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Code Highlighting&lt;/li&gt;
+&lt;li&gt;Katex Syntax&lt;/li&gt;
+&lt;li&gt;Dark Mode (Responsive to the settings of the OS)&lt;/li&gt;
+&lt;li&gt;Tag Categoriazation&lt;/li&gt;
+&lt;li&gt;Series Categorization&lt;/li&gt;
+&lt;li&gt;Responsive Web&lt;/li&gt;
+&lt;li&gt;SEO&lt;/li&gt;
+&lt;li&gt;Utterance (Comment widget)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Let&apos;s get started&lt;/h2&gt;
+&lt;p&gt;Follow the &lt;a href=&quot;/quick-start&quot;&gt;Quick Start&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🎇 1. gatsby-starter-hoodie 에 대하여]]></title><description><![CDATA[gatsby-starter-hoodie 에 대하여 gatsby-starter-hoodie 는 기술 블로그를 작성하기 위해 개발된 Gatsby 테마입니다. 마크다운과 많은 프로그래밍 언어의 코드 하이라이팅, 그리고 Katex…]]></description><link>https://jihoi-kang.github.io/about-hoodie-kr/</link><guid isPermaLink="false">https://jihoi-kang.github.io/about-hoodie-kr/</guid><pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;gatsby-starter-hoodie 에 대하여&lt;/h2&gt;
 &lt;p&gt;gatsby-starter-hoodie 는 기술 블로그를 작성하기 위해 개발된 Gatsby 테마입니다. 마크다운과 많은 프로그래밍 언어의 코드 하이라이팅, 그리고 Katex 문법을 지원합니다. 또한 태그와 시리즈를 통하여 쉽게 게시물을 분류할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;다크모드를 지원하는 깔끔한 디자인의 gatsby-starter-hoodie 로 여러분의 블로그를 시작하세요.&lt;/p&gt;
 &lt;h2&gt;주요 기능&lt;/h2&gt;
