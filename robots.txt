@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://jihoi-kang.github.io/sitemap-index.xml
-Host: https://jihoi-kang.github.io
+Sitemap: https://vallab.io/sitemap-index.xml
+Host: https://vallab.io
