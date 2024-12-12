@@ -1,17 +1,16 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "jihoi.me",
+  description: "단순히 서비스를 만드는 것이 아닌 가치를 만듭니다 :)",
+  author: "Jihoi Kang",
+  siteUrl: "https://www.vallab.io",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    email: "mailto:devhudi@gmail.com",
+    github: "https://github.com/jihoi-kang",
+    linkedIn: "https://www.linkedin.com/in/jihoi-kang-36b560174",
+    instagram: "https://www.instagram.com/aloha.jihoi",
+    email: "mailto:jihoi.kang@gmail.com",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "jihoi-kang/jihoi-kang.github.io",
     type: "pathname",
   },
 }
