@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.vallab.io/sitemap-index.xml
-Host: https://www.vallab.io
+Sitemap: https://blog.vallab.io/sitemap-index.xml
+Host: https://blog.vallab.io
