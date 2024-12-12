@@ -177,5 +177,20 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-cname`,
+      options: {
+        cname: `https://vallab.io`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-google-gtag",
+      options: {
+        trackingIds: [`G-30VQL89N5W`],
+        pluginConfig: {
+          delayOnRouteUpdate: 1000,
+        },
+      },
+    },
   ],
 }
