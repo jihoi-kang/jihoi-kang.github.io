@@ -3,8 +3,8 @@ title: "꾸준하게 지속할 수 있는 힘"
 date: 2024-12-12
 update: 2024-12-12
 tags:
-  - Think
-  - Book
+  - think
+  - book
 ---
 
 **꾸준하게 지속할 수 있는 힘은 어디에서 올까?**
