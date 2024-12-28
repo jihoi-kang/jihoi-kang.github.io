@@ -113,3 +113,9 @@ exports.createSchemaCustomization = ({ actions }) => {
   `
   createTypes(typeDefs)
 }
+
+exports.onCreateBabelConfig = ({ actions }) => {
+  actions.setBabelPlugin({
+    name: "@babel/plugin-proposal-class-properties",
+  });
+};
