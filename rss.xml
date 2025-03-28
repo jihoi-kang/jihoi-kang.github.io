@@ -1,4 +1,137 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of jihoi.me]]></title><description><![CDATA[단순히 서비스를 만드는 것이 아닌 가치를 만듭니다 :)]]></description><link>https://vallab.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Mar 2025 14:22:29 GMT</lastBuildDate><item><title><![CDATA[Crossfit OPEN 2025 후기]]></title><description><![CDATA[처음으로 크로스핏 오픈 대회에 등록하게 되었다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed of jihoi.me]]></title><description><![CDATA[단순히 서비스를 만드는 것이 아닌 가치를 만듭니다 :)]]></description><link>https://vallab.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Mar 2025 09:51:29 GMT</lastBuildDate><item><title><![CDATA[불안]]></title><description><![CDATA[요즘 독서모임 내에서 무엇을 읽으면 좋을지 고민이 많았다.
+문듯 많은 사람들에게 알려진 유명한 책들(고전 책, 서점 베스트, 하버드에서 추천하는 10…]]></description><link>https://vallab.io/alain_de_botton_status_anxiety/</link><guid isPermaLink="false">https://vallab.io/alain_de_botton_status_anxiety/</guid><pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;요즘 독서모임 내에서 무엇을 읽으면 좋을지 고민이 많았다.
+문듯 많은 사람들에게 알려진 유명한 책들(고전 책, 서점 베스트, 하버드에서 추천하는 100가지 등)을 하나씩 읽어보는 것도 좋은 방법이라고 생각했다.
+무엇이 있나 고민하다 이전에 &lt;code class=&quot;language-text&quot;&gt;알랭 드 보통 - 왜 나는 너를 사랑하는가&lt;/code&gt;를 읽어 보았는데 좋았던 기억이 있다.
+알래 드 보통도 유명한 작가이기도 하고 말이다.&lt;/p&gt;
+&lt;p&gt;그래서 그의 책 &lt;a href=&quot;(https://product.kyobobook.co.kr/detail/S000000828225)&quot;&gt;불안&lt;/a&gt;을 추천했고 34번째 독서모임 책으로 읽게 되었다.
+&lt;figure class=&apos;gatsby-resp-image-figure&apos; style=&apos;margin-bottom: 16px;&apos;&gt;
+    &lt;span class=&apos;gatsby-resp-image-wrapper&apos; style=&apos;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 680px; &apos;&gt;
+      &lt;span class=&apos;gatsby-resp-image-background-image&apos; style=&quot;padding-bottom: 148.23529411764704%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAAB6mdGCqXQtBNL/8QAHhAAAQIHAQAAAAAAAAAAAAAAAQARAhASISIxQUL/2gAIAQEAAQUCXmB6Tp8QxlwWC4F//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEw/9oACAEBAAY/Ahz/AP/EABsQAQACAwEBAAAAAAAAAAAAAAEAMRARQSFh/9oACAEBAAE/IWojq7CPTpwOiXkYvyNQtKwM5hSf/9oADAMBAAIAAwAAABDn+E//xAAWEQADAAAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QqP/EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAgBAgEBPxBdRdf/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMVFxwUGB/9oACAEBAAE/EPKVgUrrO4PLhVEv2YBKtS4RDC+ZWPCIqsjxfsz/AGQ8W6lAVO7i2uyJRcZ4jvXU/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&apos;gatsby-resp-image-image&apos; alt=&apos;book&apos; title=&apos;book&apos; src=&apos;/static/f8c6035e94b9796fd901ad043a06a457/a22ce/book.jpg&apos; srcset=&apos;/static/f8c6035e94b9796fd901ad043a06a457/0b705/book.jpg 170w,
+/static/f8c6035e94b9796fd901ad043a06a457/31389/book.jpg 340w,
+/static/f8c6035e94b9796fd901ad043a06a457/a22ce/book.jpg 680w,
+/static/f8c6035e94b9796fd901ad043a06a457/acd9d/book.jpg 811w&apos; sizes=&apos;(max-width: 680px) 100vw, 680px&apos; style=&apos;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&apos; loading=&apos;lazy&apos; decoding=&apos;async&apos;&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&apos;gatsby-resp-image-figcaption&apos;&gt;book&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;알랭 드 보통이 정의하는 불안은 &lt;strong&gt;지위&lt;/strong&gt;와 관련이 있다.
+먼저 책에서 말하는 &lt;strong&gt;지위&lt;/strong&gt;를 정의해보면 다음과 같다.&lt;/p&gt;
+&lt;h3&gt;정의&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;사회에서 사람이 차지하는 위치, 지위(status)는 &lt;strong&gt;신분&lt;/strong&gt;이라는 뜻의 라틴어 statum 에서 파생되었다.&lt;/li&gt;
+&lt;li&gt;좁은 의미로 한 집단 내의 법적 또는 직업적 신분을 가리킨다.&lt;/li&gt;
+&lt;li&gt;그러나, 더 넓은 의미에서는 &lt;strong&gt;세상의 눈으로 본 사람의 가치나 중요성을 가리키며&lt;/strong&gt;, 이 책에서는 이 의미가 더 중요하다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;책의 구성은 쉽게 되어 있었다.
+원인 파트와 해법 파트 두가지고 나뉘어져 있었다.&lt;/p&gt;
+&lt;h3&gt;원인&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;사랑결핍&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;사랑 받고 싶은 욕망이 지위 추구로 연결 됨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;strong&gt;속물근성&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;사람을 직업, 연봉, 배경으로 평가&lt;/li&gt;
+&lt;li&gt;사람보다 지위를 보는 시선이 불안을 부추김&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;strong&gt;기대&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;과거에는 계급이 있었기에 올라갈 수 있다는 기대수준이 낮았음&lt;/li&gt;
+&lt;li&gt;기회가 평등해져 기대 수준이 높아졌음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;&lt;strong&gt;능력주의&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;실패가 개인의 책임으로 귀속되어 자존감 하락, 불안을 부추김&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;&lt;strong&gt;불확실성&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;외부에 의존하는 삶은 언제나 흔들릴 수 밖에 없음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;해법&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;철학&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;외부 기준보다 내면의 기준으로 삶을 평가하라고 함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;strong&gt;예술&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;인간의 다양한 삶을 보여주는 거울 역할&lt;/li&gt;
+&lt;li&gt;다른 사람들의 고통, 실패, 다양성을 통해 나 자신을 수용할 수 있게 도와줌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;strong&gt;정치&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;제도적 개선, 복지 확대를 통해 사회적 안정망 설치&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;&lt;strong&gt;기독교&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;종교는 인간을 조건없는 존엄한 존재로 바라봄&lt;/li&gt;
+&lt;li&gt;지위와 상관없이 사랑과 용서를 강조함&lt;/li&gt;
+&lt;li&gt;FYI) 근데 기독교인이 아님&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;&lt;strong&gt;보헤미아&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;주류 가치에 반기 들기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;느낀점&lt;/h3&gt;
+&lt;p&gt;불안은 세대를 거듭 할 수록 깊어지고 싶해지고 있다.
+원래는 마을, 조금 더 확장해 봤자 지역, 조금 더 확장해 봤자 나라에서 비교하였다.
+그러나 글로벌 세계가 되면서 이제는 전세계 사람들과 비교하게 되었다.
+나도 모르는 사이에 전세계 사람들과 비교하여 그들보다 더 잘 먹고 잘 살고 싶은 마음이 커졌다.
+이러한 마음이 불안을 확대 시켰다.
+불안이 가지는 부정적인 면이 지금의 내게는 더 크게 와닿았다.&lt;/p&gt;
+&lt;p&gt;그래서 해법에서 이러한 불안을 어떻게 대처할 수 있게 할지 기대하게 되었다.
+많은 부분 도움이 될 수 있겠다고 생각했고 해법을 읽으면 느꼈던 두가지 마음이 있었다.&lt;/p&gt;
+&lt;h4&gt;첫번째, 대자연에 대한 내용이었다.&lt;/h4&gt;
+&lt;p&gt;사람들은 주변에 있는 고만고만한 것들 끼리 비교하기 때문에 해볼 만 하겠는데(?)와 같은 마음이 든다.
+그러나 대자연 앞에 서면 나는 너무나 작고 한없는 존재임을 직시하게 된다.
+유튜브에서 여러 사람들이 자연을 탐험하고 느끼는 점들을 들어보면 자연에 비해 나는 작고 한없는 존재이구나 라고 말하는 걸 몇 번 보았다.&lt;/p&gt;
+&lt;p&gt;나도 전에 한라산에 등반한 적이 있는데 위와 같은 마음이 조금 느껴졌었다.
+그냥 내가 할 수 있는 것은 한걸음씩 정상을 향해 나아가는 것 뿐이였다.
+할 수 있는 최선을 다하는 것이 전부이자 내가 해야할 일이라고 느꼈다.
+이러한 마음이 불안을 없애는 데 의외의 도움이 되었다.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&apos;gatsby-resp-image-figure&apos; style=&apos;margin-bottom: 16px;&apos;&gt;
+    &lt;span class=&apos;gatsby-resp-image-wrapper&apos; style=&apos;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 680px; &apos;&gt;
+      &lt;a class=&apos;gatsby-resp-image-link&apos; href=&apos;/static/e728123ade42e9ad6265d7b22183e406/550d9/jeju.png&apos; style=&apos;display: block&apos; target=&apos;_blank&apos; rel=&apos;noopener&apos;&gt;
+    &lt;span class=&apos;gatsby-resp-image-background-image&apos; style=&quot;padding-bottom: 45.294117647058826%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAACMElEQVR42gElAtr9ADppvjdlvDdkuzZiuTVgtzNftjJftTJcsS9arC5Ypy5XpC1VnytTnCxTnCxUnSdOlB9FhyFHiSVLkitRmgBFdsxCcslBcclBb8g/bsc/bsg+bcY+bcQ8a787ar07abs6Z7g4ZbQ4ZbQ5ZrQ1YKwtVZ8vWKE1X6s6ZrUAVY7gU4ncUIXaUITaUofdU4neVYvgUofbTIHTS4DSToLSUITTUoPSUIPST4PSSnzMQXHDQnLDR3nLTH7OAKDL+ZjC85K77omz6Yy155S66Iqq0ZWv0KS83KO62ZOv0Yeo0IKo1oux34+244iy5H2q5YGv6I699nyfzACAmsGEoMpvjryYq8qIla9YaoxgbousrrvT0NXX1dja2NnW1NewtsORma+Jkqmep7yptcyjrsCXpLlQW28AL0l7NU57M06AVm2YR2GSMUt7M1GKeIy3zM3YyMrVy8zX2Nng4N/j393h0dDUsbTBcH6bTFp1TV19KzlaAD5ajTxYjDxZjzRTjD1dmTxZjkNgmVJztn+Vx6CszKuzyqKrwpWfuoaRq3KBnzxSfBgxWiY9ZDZNd0ZTbwBjd59Nbq1IaKZGZqFCYp47WpM2UoQ7WZBCYqJFZaREYp1DX5g6VIk0T4UjP3M7U4Cgpa93dnkoNlJIUmgAd5HHTm6qSmurSGScSGehQGSnO1uUPWCfOVeQNVKFQl6UT2ykMEh1LUV0K0h8U2iP4uLlwcHEJi5AS1JhdlUU5SgYGLEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&apos;gatsby-resp-image-image&apos; alt=&apos;한라산 백록담&apos; title=&apos;한라산 백록담&apos; src=&apos;/static/e728123ade42e9ad6265d7b22183e406/ca1dc/jeju.png&apos; srcset=&apos;/static/e728123ade42e9ad6265d7b22183e406/e7570/jeju.png 170w,
+/static/e728123ade42e9ad6265d7b22183e406/f46e7/jeju.png 340w,
+/static/e728123ade42e9ad6265d7b22183e406/ca1dc/jeju.png 680w,
+/static/e728123ade42e9ad6265d7b22183e406/02d09/jeju.png 1020w,
+/static/e728123ade42e9ad6265d7b22183e406/9d567/jeju.png 1360w,
+/static/e728123ade42e9ad6265d7b22183e406/550d9/jeju.png 2140w&apos; sizes=&apos;(max-width: 680px) 100vw, 680px&apos; style=&apos;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&apos; loading=&apos;lazy&apos; decoding=&apos;async&apos;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&apos;gatsby-resp-image-figcaption&apos;&gt;한라산 백록담&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h4&gt;두번째, 책에서는 나와있는 내용은 아니지만 읽으면서 계속 느꼈던 마음이다.&lt;/h4&gt;
+&lt;p&gt;내가 살아가는 이유에 대해 근본적인 질문을 던지는 것이다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;왜 높은 지위에 올라가고자 하는 마음이 있을까?&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;각자 조금씩은 다르겠지만 어찌되었든 행복하게 살려고 하는 것 아닌가 싶다.
+그런데 행복하려고 더 많이 벌고 승진하려는 마음이 어쩌면 행복하지 않는 삶을 살게 한다는 생각이 들었다.&lt;/p&gt;
+&lt;p&gt;가끔은 욕심을 부려야 할 때도 있을 것이다.
+그러나 가끔은 욕심을 내려놓고 나를 돌아보고, 가족을 보고, 더 여유가 있다면 이웃을 바라보아야 하지 않을까 싶다.&lt;/p&gt;
+&lt;p&gt;요즘 마음 속 불안이 큰 시점에 이 책을 만나게 되어 큰 행운이었다.
+사실 내용이 조금 어려워서 전체적인 흐름만 보았고 세세히 이해하지는 못하였다.
+그래도 마음의 울림이 되기에는 충분했던 책이었다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Crossfit OPEN 2025 후기]]></title><description><![CDATA[처음으로 크로스핏 오픈 대회에 등록하게 되었다.
 매년 열리는 크로스핏 대회로 전세계 사람들을 대상으로 하는 대회이다.
 상위…]]></description><link>https://vallab.io/crossfit-open-2025/</link><guid isPermaLink="false">https://vallab.io/crossfit-open-2025/</guid><pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;처음으로 크로스핏 오픈 대회에 등록하게 되었다.
 매년 열리는 크로스핏 대회로 전세계 사람들을 대상으로 하는 대회이다.
