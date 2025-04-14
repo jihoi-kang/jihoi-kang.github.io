@@ -181,7 +181,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-cname`,
       options: {
-        cname: `https://vallab.io`,
+        cname: `https://log.vallab.io`,
       },
     },
     {
