@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
   }
 
   let localTheme = null
-  if (typeof localStorage !== "undefined") {
+  if (typeof localStorage !== "undefined" && typeof window !== "undefined") {
     localTheme = localStorage.getItem("theme")
   }
 
